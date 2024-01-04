@@ -10601,7 +10601,7 @@ let filterData = (key) => {
                   </div>
                 </div>
             <div class="id_data">
-<div class="id_no_image" style="background:url('./res/nouserEdited.png')" >
+<div class="id_no_image">
 <div class="id_image" id="image"
 style="background:url('${image}')" alt="Student Image">
 
