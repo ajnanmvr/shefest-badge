@@ -37,8 +37,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -51,8 +50,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -65,8 +63,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS4",
@@ -85,8 +82,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -99,8 +95,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -113,8 +108,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -1454,550 +1448,1408 @@ let studentData = [
       ]
   },
   {
-      "chest": "PMNA152",
+      "chest": "PMN152",
       "name": "MUHAMMED FARHAN P",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS1",
+              "name": "ഖിറാഅത്ത്",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS2",
+              "name": "ഹിഫ്‌ള്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA238",
+      "chest": "PMN238",
       "name": "MUHAMMED NIHAL KASARAGOD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS1",
+              "name": "ഖിറാഅത്ത്",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS2",
+              "name": "ഹിഫ്‌ള്",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS4",
+              "name": "പ്രസംഗം അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA226",
+      "chest": "PMN226",
       "name": "ANZIL ATHAVANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS11",
+              "name": "മാലപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS20",
+              "name": "മലയാള സമൂഹ ഗാനം",
+              "isStage": 1,
+              "cat": "J",
+              "isGrp": 1
+          },
+          {
+              "code": "JS3",
+              "name": "വാങ്ക്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA198",
+      "chest": "PMN198",
       "name": "MUHAMMED IRSHAD TANUR",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS3",
+              "name": "വാങ്ക്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA207",
+      "chest": "PMN207",
       "name": "MUHAMMAD SINAN N",
       "dars": "MAMBA'UL HUDA DARS, EARKKARA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS4",
+              "name": "പ്രസംഗം അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA204",
+      "chest": "PMN204",
       "name": "MUHAMMAD HANAN C, KOTTOPADAM",
       "dars": "MAMBA'UL HUDA DARS, EARKKARA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS5",
+              "name": "പ്രസംഗം മലയാളം",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA239",
+      "chest": "PMN239",
       "name": "MUHAMMED NUAMAN K WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS5",
+              "name": "പ്രസംഗം മലയാളം",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA225",
+      "chest": "PMN225",
       "name": "ABDUL HADI PAZHAMALLUR",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS6",
+              "name": "പ്രസംഗം ഉറുദു",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA196",
+      "chest": "PMN196",
       "name": "MUHAMMED ASHIQUE WAYANAD",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS6",
+              "name": "പ്രസംഗം ഉറുദു",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA237",
+      "chest": "PMN237",
       "name": "MUHAMMED MISAB MK UNIVERSITY",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS7",
+              "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA132",
+      "chest": "PMN132",
       "name": "MUHAMMED SAJEER K, KOOTTILANGADI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO27",
+              "name": "നിഘണ്ടു നിര്‍മ്മാണം",
+              "cat": "J"
+          },
+          {
+              "code": "JO30",
+              "name": "പ്രശ്‌നോത്തരി",
+              "cat": "J"
+          },
+          {
+              "code": "JS7",
+              "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA121",
+      "chest": "PMN121",
       "name": "MUHAMMED SINAN THIRUVIZHAMKUNNU",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS8",
+              "name": "ഗ്രന്ഥവായന",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA107",
+      "chest": "PMN107",
       "name": "MUHAMMED BASIM MUTHIRIPARAMBA",
       "dars": "ANWARUL HUDA DARS MEENARKUZHI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS12",
+              "name": "ഗാനം ഉറുദു",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS9",
+              "name": "ഗാനം അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA153",
+      "chest": "PMN153",
       "name": "MUHAMMED SHAKIR A",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS9",
+              "name": "ഗാനം അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA114",
+      "chest": "PMN114",
       "name": "MUHAMMED SINAN MUTHIRIPARAMBA",
       "dars": "ANWARUL HUDA DARS MEENARKUZHI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO24",
+              "name": "ഖത്തുന്നസ്ഖ്",
+              "cat": "J"
+          },
+          {
+              "code": "JS10",
+              "name": "മാപ്പിളപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA171",
+      "chest": "PMN171",
       "name": "SALMANUL FAYIS, VATTAPPARAMBU",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS10",
+              "name": "മാപ്പിളപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA125",
+      "chest": "PMN125",
       "name": "ABDUL BASITH.PK, MURIYAMKANNI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS11",
+              "name": "മാലപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS19",
+              "name": "അറബി സംഘഗാനം",
+              "isStage": 1,
+              "cat": "J",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA249",
+      "chest": "PMN249",
       "name": "MUHAMMED SWAHID IRUMBUZHI",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO26",
+              "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+              "cat": "J"
+          },
+          {
+              "code": "JS12",
+              "name": "ഗാനം ഉറുദു",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA243",
+      "chest": "PMN243",
       "name": "MUHAMMED DILSHAN IRIMBILIYAM",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS13",
+              "name": "കഥ പറച്ചില്‍",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA241",
+      "chest": "PMN241",
       "name": "MUHAMMED SAHAD WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS13",
+              "name": "കഥ പറച്ചില്‍",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA240",
+      "chest": "PMN240",
       "name": "MUHAMMED RAMEES WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO23",
+              "name": "മെമ്മറി ടെസ്റ്റ്",
+              "cat": "J"
+          },
+          {
+              "code": "JS14",
+              "name": "ഗദ്യവായന മലയാളം",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA120",
+      "chest": "PMN120",
       "name": "MUHAMMED SHAJAHAN CHERPULASSERI",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS14",
+              "name": "ഗദ്യവായന മലയാളം",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA133",
+      "chest": "PMN133",
       "name": "NISAMUDEEN P, PULAMANTHOLE",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS15",
+              "name": "മുശാഅറ",
+              "isStage": 1,
+              "cat": "J"
+          },
+          {
+              "code": "JS17",
+              "name": "പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA126",
+      "chest": "PMN126",
       "name": "ARIFUDHEEN AK, AMMINIKKAD",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO24",
+              "name": "ഖത്തുന്നസ്ഖ്",
+              "cat": "J"
+          },
+          {
+              "code": "JO26",
+              "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+              "cat": "J"
+          },
+          {
+              "code": "JO29",
+              "name": "മലയാള പ്രബന്ധം",
+              "cat": "J"
+          },
+          {
+              "code": "JS16",
+              "name": "പദപ്പയറ്റ് അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA159",
+      "chest": "PMN159",
       "name": "MUHAMMED AMJAD.KT,PODEKKAD",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS16",
+              "name": "പദപ്പയറ്റ് അറബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA232",
+      "chest": "PMN232",
       "name": "MUHAMMAD SHIYAS KASARAGOD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS17",
+              "name": "പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA122",
+      "chest": "PMN122",
       "name": "MUHAMMED SINAN, KOPPAM",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS18",
+              "name": "മദ്ഹുന്നബി",
+              "isStage": 1,
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA224",
+      "chest": "PMN224",
       "name": "ABDHURAHMAN PUTHANATHANI",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS19",
+              "name": "അറബി സംഘഗാനം",
+              "isStage": 1,
+              "cat": "J",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA206",
+      "chest": "PMN206",
       "name": "MUHAMMAD SHADIL P",
       "dars": "MAMBA'UL HUDA DARS, EARKKARA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JS20",
+              "name": "മലയാള സമൂഹ ഗാനം",
+              "isStage": 1,
+              "cat": "J",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA128",
+      "chest": "PMN128",
       "name": "MOHAMMED RABEEH.TK ,BIDATHI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO21",
+              "name": "ചിത്രരചന",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA195",
+      "chest": "PMN195",
       "name": "MUHAMMAD NIFAD MAYYERICHIRA",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO21",
+              "name": "ചിത്രരചന",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA109",
+      "chest": "PMN109",
       "name": "MUHAMMED MIDLAJ VALAMANGALAM",
       "dars": "ANWARUL HUDA DARS MEENARKUZHI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO22",
+              "name": "സുഡോക്കു",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA134",
+      "chest": "PMN134",
       "name": "SHADULI SINAN, AMMINIKKAD",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO22",
+              "name": "സുഡോക്കു",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA291",
+      "chest": "PMN291",
       "name": "MUHAMMED RABEEH KT VALIYAKUNNU",
       "dars": "RABBANIYYA DARS VATTALLUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO23",
+              "name": "മെമ്മറി ടെസ്റ്റ്",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA154",
+      "chest": "PMN154",
       "name": "MUHAMMED SINAN KK",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO24",
+              "name": "ഖത്തുന്നസ്ഖ്",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA130",
+      "chest": "PMN130",
       "name": "MUHAMMED MUHSIN.P ,PULAMANTHOL",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO25",
+              "name": "കേട്ടെഴുത്ത്",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA247",
+      "chest": "PMN247",
       "name": "MUHAMMED SINAN P PERSHANNOOR",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO25",
+              "name": "കേട്ടെഴുത്ത്",
+              "cat": "J"
+          },
+          {
+              "code": "JO29",
+              "name": "മലയാള പ്രബന്ധം",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA282",
+      "chest": "PMN282",
       "name": "MUHAMMED AJSAL ARIPRA",
       "dars": "RABBANIYYA DARS VATTALLUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO28",
+              "name": "തശ്കീല്‍",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA197",
+      "chest": "PMN197",
       "name": "MUHAMMED IHSAN PURAMANNUR",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO28",
+              "name": "തശ്കീല്‍",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA246",
+      "chest": "PMN246",
       "name": "MUHAMMED SHADIL VP KUTTIPPURAM",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "JO30",
+              "name": "പ്രശ്‌നോത്തരി",
+              "cat": "J"
+          }
+      ]
   },
   {
-      "chest": "PMNA511",
+      "chest": "PMN511",
       "name": "NASRUDHEEN KANNUR",
       "dars": "ANWARUL HUDA DARS MEENARKUZHI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO34",
+              "name": "കവിതാ രചന",
+              "cat": "S"
+          },
+          {
+              "code": "SS1",
+              "name": "ഖിറാഅത്ത്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA613",
+      "chest": "PMN613",
       "name": "SAYYID AHMED JURAIJ BA ALAVI",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS1",
+              "name": "ഖിറാഅത്ത്",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS3",
+              "name": "വാങ്ക്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA578",
+      "chest": "PMN578",
       "name": "JASIM IRSHAD PONNANI",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO26",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          },
+          {
+              "code": "SO38",
+              "name": "തശ്കീല്‍",
+              "cat": "S"
+          },
+          {
+              "code": "SS2",
+              "name": "ഹിഫ്‌ള്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA525",
+      "chest": "PMN525",
       "name": "MOHAMMED SINAN AK, NATTUKAL",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS15",
+              "name": "പ്രബന്ധാവതരണം",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS2",
+              "name": "ഹിഫ്‌ള്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA565",
+      "chest": "PMN565",
       "name": "MUHAMMED SWADIQ.K, PUNJAKKODE",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS3",
+              "name": "വാങ്ക്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA601",
+      "chest": "PMN601",
       "name": "HAFIZ AJMAL WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS4",
+              "name": "ക്ലാസ് അവതരണം",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS7",
+              "name": "പ്രസംഗം അറബി",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA531",
+      "chest": "PMN531",
       "name": "SAIFUDHEEN CK, KAREKKAD",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO38",
+              "name": "തശ്കീല്‍",
+              "cat": "S"
+          },
+          {
+              "code": "SS4",
+              "name": "ക്ലാസ് അവതരണം",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA600",
+      "chest": "PMN600",
       "name": "FASIL NILIGIRI",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO34",
+              "name": "കവിതാ രചന",
+              "cat": "S"
+          },
+          {
+              "code": "SO35",
+              "name": "നിഘണ്ടു നിര്‍മ്മാണം",
+              "cat": "S"
+          },
+          {
+              "code": "SS17",
+              "name": "പാടിപ്പറയല്‍",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS5",
+              "name": "വഅ്‌ള്",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS8",
+              "name": "പ്രസംഗം ഉറുദു",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA654",
+      "chest": "PMN654",
       "name": "MUHAMMAD ASHRAF.MT PANANGAGARA",
       "dars": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS5",
+              "name": "വഅ്‌ള്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA599",
+      "chest": "PMN599",
       "name": "FAHIS VALLIKUNNU",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS16",
+              "name": "നിമിഷപ്രസംഗം",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS6",
+              "name": "പ്രസംഗം മലയാളം",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA670",
+      "chest": "PMN670",
       "name": "SWALIH,THOTTARA",
       "dars": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS6",
+              "name": "പ്രസംഗം മലയാളം",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA562",
+      "chest": "PMN562",
       "name": "MUHAMMED MUSTHAFA.TK,PARAKKANNI",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO25",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          },
+          {
+              "code": "SS11",
+              "name": "ഗ്രന്ഥ വായന",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS7",
+              "name": "പ്രസംഗം അറബി",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA584",
+      "chest": "PMN584",
       "name": "MUHAMMED ANES KOPPAM",
       "dars": "MAJLISUL IRFAN DARS ACHIPRA",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS8",
+              "name": "പ്രസംഗം ഉറുദു",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA529",
+      "chest": "PMN529",
       "name": "MUHAMMED MUSTHAFA.CM,TANUR",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS12",
+              "name": "കവിതാലാപനം മലയാളം",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS13",
+              "name": "മുശാഅറ",
+              "isStage": 1,
+              "cat": "S"
+          },
+          {
+              "code": "SS9",
+              "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA609",
+      "chest": "PMN609",
       "name": "MUHAMMED SHEFIN THODUPUZHA",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO29",
+              "name": "പ്രബന്ധം ഇംഗ്ലീഷ്",
+              "cat": "S"
+          },
+          {
+              "code": "SS9",
+              "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA606",
+      "chest": "PMN606",
       "name": "MUHAMMED ABOOBACKER KANNUR",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS10",
+              "name": "ഖുഥ്ബ",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA517",
+      "chest": "PMN517",
       "name": "MUHAMMED SINAN GUDALLUR",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS10",
+              "name": "ഖുഥ്ബ",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA604",
+      "chest": "PMN604",
       "name": "MUBASHIRUDHEEN T EDAPPAL",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO25",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          },
+          {
+              "code": "SO26",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          },
+          {
+              "code": "SO28",
+              "name": "പ്രബന്ധം അറബി",
+              "cat": "S"
+          },
+          {
+              "code": "SS13",
+              "name": "മുശാഅറ",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA513",
+      "chest": "PMN513",
       "name": "ANSHAD AIRANI",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS14",
+              "name": "അനൗണ്‍സ്‌മെന്റ്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA608",
+      "chest": "PMN608",
       "name": "MUHAMMED SHAMVEEL CK VAZHAKKAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS14",
+              "name": "അനൗണ്‍സ്‌മെന്റ്",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA552",
+      "chest": "PMN552",
       "name": "NASRUDHEEN E",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS15",
+              "name": "പ്രബന്ധാവതരണം",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA521",
+      "chest": "PMN521",
       "name": "SULAIMAN PS KALLADIKKODE",
       "dars": "BADRIYYA DARS, KAPPU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS16",
+              "name": "നിമിഷപ്രസംഗം",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA549",
+      "chest": "PMN549",
       "name": "MUHAMMED IRFAN CK",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS17",
+              "name": "പാടിപ്പറയല്‍",
+              "isStage": 1,
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA603",
+      "chest": "PMN603",
       "name": "HAFIZ SHAMNAS WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS18",
+              "name": "മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA662",
+      "chest": "PMN662",
       "name": "MUHAMMED AMEEN, KARUMALA",
       "dars": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS18",
+              "name": "മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA663",
+      "chest": "PMN663",
       "name": "MUHAMMED ANSHIF, KALIKAVU",
       "dars": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS19",
+              "name": "ഖസ്വീദ പാരായണം",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA564",
+      "chest": "PMN564",
       "name": "MUHAMMED SALEEM.RA, MANNARKKAD",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SS19",
+              "name": "ഖസ്വീദ പാരായണം",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA598",
+      "chest": "PMN598",
       "name": "AMEEN MISHAL KANNUR",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO30",
+              "name": "പ്രബന്ധം മലയാളം",
+              "cat": "S"
+          },
+          {
+              "code": "SO31",
+              "name": "റിപ്പോര്‍ട്ടിംഗ്",
+              "cat": "S"
+          },
+          {
+              "code": "SO39",
+              "name": "പ്രശ്‌നോത്തരി",
+              "cat": "S"
+          },
+          {
+              "code": "SS20",
+              "name": "പ്രോഗ്രാം സെറ്റിംഗ്",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA527",
+      "chest": "PMN527",
       "name": "MUHAMMED FAHIM PK, VALANCHERY",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO33",
+              "name": "മുദ്രവാക്യ രചന",
+              "cat": "S"
+          },
+          {
+              "code": "SS20",
+              "name": "പ്രോഗ്രാം സെറ്റിംഗ്",
+              "isStage": 1,
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA675",
+      "chest": "PMN675",
       "name": "ASHIQ RABBANI",
       "dars": "RABBANIYYA DARS VATTALLUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO21",
+              "name": "അറബിക് കാലിഗ്രഫി",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA551",
+      "chest": "PMN551",
       "name": "MUHAMMED SHIBILI T",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO21",
+              "name": "അറബിക് കാലിഗ്രഫി",
+              "cat": "S"
+          },
+          {
+              "code": "SO24",
+              "name": "ഖത്തുറുഖഈ",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA561",
+      "chest": "PMN561",
       "name": "MUHAMMED FAYIZ.KK",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO22",
+              "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA532",
+      "chest": "PMN532",
       "name": "SHAHUL HAMEED C, ATHANIPPADI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO22",
+              "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA597",
+      "chest": "PMN597",
       "name": "ABDUL SALEEM KP",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO23",
+              "name": "ഖത്തുന്നസ്ഖ്",
+              "cat": "S"
+          },
+          {
+              "code": "SO40",
+              "name": "പത്രനിര്‍മാണം",
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
-      "chest": "PMNA624",
+      "chest": "PMN624",
       "name": "MUHAMMED SAFUVAN THANGAL KUTTIPPURAM",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO23",
+              "name": "ഖത്തുന്നസ്ഖ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA505",
+      "chest": "PMN505",
       "name": "MOHAMMED RASHID KADOOPURAM",
       "dars": "ANWARUL HUDA DARS MEENARKUZHI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO24",
+              "name": "ഖത്തുറുഖഈ",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA530",
+      "chest": "PMN530",
       "name": "MUHAMMED SINAN.P, PAZHAMALLUR",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO25",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          },
+          {
+              "code": "SO30",
+              "name": "പ്രബന്ധം മലയാളം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA523",
+      "chest": "PMN523",
       "name": "FATHAHU RAHMAN P, ATHANIPPADI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO26",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA573",
+      "chest": "PMN573",
       "name": "MUHAMMED MUSTHAFA SHANU PH KUNNAMANGALAM",
       "dars": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO27",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA671",
+      "chest": "PMN671",
       "name": "SYED MUHAMMED MIDLAJ",
       "dars": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO27",
+              "name": "വിവര്‍ത്തനം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA545",
+      "chest": "PMN545",
       "name": "MOHAMMED ANEES V",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO29",
+              "name": "പ്രബന്ധം ഇംഗ്ലീഷ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA528",
+      "chest": "PMN528",
       "name": "MUHAMMED FARHAN PK, PAINKANNUR",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO31",
+              "name": "റിപ്പോര്‍ട്ടിംഗ്",
+              "cat": "S"
+          },
+          {
+              "code": "SO32",
+              "name": "തലവാചക നിര്‍മ്മാണം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA568",
+      "chest": "PMN568",
       "name": "UNAIS TH",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO32",
+              "name": "തലവാചക നിര്‍മ്മാണം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA611",
+      "chest": "PMN611",
       "name": "MUHAMMED SINAN UP WAYANAD",
       "dars": "MARKAZUL ULAMA DARS VALANCHERY",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO33",
+              "name": "മുദ്രവാക്യ രചന",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA618",
+      "chest": "PMN618",
       "name": "MUHAMMED FAHIZ",
       "dars": "MISHKATHUL HUDA DARS EDAYATTUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO35",
+              "name": "നിഘണ്ടു നിര്‍മ്മാണം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA543",
+      "chest": "PMN543",
       "name": "ANSHID NM",
       "dars": "IYNUL MARIF PONNIAKURUSSI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO36",
+              "name": "അടിക്കുറിപ്പ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA524",
+      "chest": "PMN524",
       "name": "IBRAHIMUL KHALEEL T, CHOLODE",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO36",
+              "name": "അടിക്കുറിപ്പ്",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA644",
+      "chest": "PMN644",
       "name": "MUHAMMED HASHIM EP",
       "dars": "RABBANIYYA DARS VATTALLUR",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO37",
+              "name": "പദ സമ്പാദനം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA575",
+      "chest": "PMN575",
       "name": "MUHAMMED SWALIH TK ELANKUR",
       "dars": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO37",
+              "name": "പദ സമ്പാദനം",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA554",
+      "chest": "PMN554",
       "name": "AHAMMED YASEEN.K, KARINKALLATHANI",
       "dars": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO39",
+              "name": "പ്രശ്‌നോത്തരി",
+              "cat": "S"
+          }
+      ]
   },
   {
-      "chest": "PMNA526",
+      "chest": "PMN526",
       "name": "MUHAMMAD IRFAN T, KOOTTILANGADI",
       "dars": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-      "propgrams": []
+      "propgrams": [
+          {
+              "code": "SO40",
+              "name": "പത്രനിര്‍മാണം",
+              "cat": "S",
+              "isGrp": 1
+          }
+      ]
   },
   {
       "chest": "TGI341",
@@ -2008,8 +2860,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -2027,8 +2878,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -2041,8 +2891,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -2055,8 +2904,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -2069,8 +2917,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -2083,8 +2930,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -3419,8 +4265,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS18",
@@ -3453,15 +4298,13 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -3474,8 +4317,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS4",
@@ -3500,8 +4342,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -3514,8 +4355,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -4604,22 +5444,19 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -4632,8 +5469,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -4646,15 +5482,13 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -5939,15 +6773,13 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -5965,8 +6797,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS10",
@@ -5985,8 +6816,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -5999,8 +6829,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -6013,8 +6842,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -7308,15 +8136,13 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -7329,8 +8155,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS9",
@@ -7349,8 +8174,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -7363,8 +8187,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -7390,8 +8213,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -9163,8 +9985,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS13",
@@ -9176,8 +9997,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -9190,8 +10010,7 @@ let studentData = [
               "code": "JS1",
               "name": "ഖിറാഅത്ത്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -9204,8 +10023,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           },
           {
               "code": "JS7",
@@ -9224,8 +10042,7 @@ let studentData = [
               "code": "JS2",
               "name": "ഹിഫ്‌ള്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -9243,8 +10060,7 @@ let studentData = [
               "code": "JS3",
               "name": "വാങ്ക്",
               "isStage": 1,
-              "cat": "J",
-              "publish": 1
+              "cat": "J"
           }
       ]
   },
@@ -9753,6 +10569,7 @@ let filterData = (key) => {
   var availableImage = "";
   studentData.forEach(({ name, dars, propgrams, chest }) => {
     let image = `./img/${chest}.jpg`
+    console.log(propgrams.length > 6? chest: "");
     // let image = `./res/nouserEdited.png`;
     //   fetch(`./data/img/${section + "/" + adNo}.jpg`).then((res)=>{imageAvailable=`./data/img/${section + "/" + adNo}.jpg`
     // console.log(res);}
@@ -9793,7 +10610,7 @@ style="background:url('${image}')" alt="Student Image">
                 <div class="name_adNo_container">
                     <span class="name_container"><span class="name">${name}</span> </span>
                     <p class="section_container"> <span class=section></span> </p>
-                    <span class="name"><span class="name">${chest}</span> </span>
+                    <span class="name"><span class="name chest-no">${chest}</span> </span>
                     <p class="adNo">${propgrams[0]?.cat == "J" ? "Junior" : "Senior"}</p>
                     <p  class="adNo">${dars}</p>
                     </div>
@@ -9802,7 +10619,7 @@ style="background:url('${image}')" alt="Student Image">
 
               <div class="programs">
               ${propgrams.map(
-                (program) => { console.log(program); return(`<p class="program">${program.name}</p>`)}
+                (program) => { return(`<p class="program">${program.name}</p>`)}
               ).join('')}
               </div>
              
