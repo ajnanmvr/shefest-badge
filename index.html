@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+    <title>Membership Card Generator | ASAs Media Wing 2022</title>
+</head>
+
+<body>
+    <header>
+        <h1>Membership Card Generator</h1>
+        <nav>
+            <ul class="filterButtons">
+                <!-- Filter Buttons -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Main Data Will Append Here -->
+    </main>
+    <footer>
+        <div class="dataInfo">
+            <div class="titleBar">
+                <h3>Filter Info</h3>
+                <p title="Clear All Filters" onclick="filterData()">Clear<b>X</b></p>
+            </div>
+            <div class="info">
+                <table>
+                    <tr>
+                        <th>Filtered Data:</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>All Data :</th>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="end">
+                <p><a href="#" class="print" onclick="window.print()">Print</a></p>
+                <div class="credits">
+                    &copy; ASAs Media 2022
+                </div>
+            </div>
+        </div>
+        <div  class="downloadBtn" onclick="window.print()">
+            <span class="dlText">Download</span>
+            <img class="dlImg" src="./res/dl.png" alt="Download">
+        </div>
+    </footer>
+
+
+    <main class="qrInput">
+        <form action="/"
+              id="qr-generation-form">
+            <input type="text"
+                   name="qr-code-content"
+                   id="qr-content"
+                   value=""
+                   placeholder="Enter QR content"
+                   autocomplete="off" />
+            <input type="submit"
+                   value="Generate QR Code" />
+        </form><br />
+        <!-- <div id="qr-code1"></div> -->
+        
+    </main>
+    <button id="generateQrCode">Generate QR Code</button>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js">
+    </script>
+    <script src="./script.js"></script>
+
+
+
+    
+</body>
+
+</html>
