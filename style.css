@@ -5,9 +5,10 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Montserrat, sans-serif;
+  color: black;
 }
-body{
-  background-color:#717E8E;
+body {
+  background-color: #717e8e;
 }
 /* Header */
 header {
@@ -60,7 +61,6 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     /* justify-content: space-evenly; */
-
   }
 }
 
@@ -69,13 +69,11 @@ h1 {
   color: white;
   display: inline-block;
   background-image: url("./res/new.jpg");
-/* margin-left: 8px;
+  /* margin-left: 8px;
 margin-bottom: 8px; */
   position: relative;
   /* margin-top: 7px; */
   z-index: -1;
-
-
 }
 
 /* .hadi_dot {
@@ -94,7 +92,6 @@ margin-bottom: 8px; */
 }
 
 .name_adNo_container {
-
   display: flex;
   flex-direction: column;
   gap: 2px;
@@ -104,16 +101,16 @@ margin-bottom: 8px; */
 
 .name_adNo_container .name {
   font-weight: 900;
+  margin-top: -8px;
 }
 
-.chest-no{
+.chest-no {
   font-weight: 900;
-  font-size: 12px;
-  /* margin-top: 10px; */
-
+  font-size: 8.5px;
+  color: #fff;
 }
 
-.programs{
+.programs {
   display: flex;
   flex-direction: column;
   gap: 2px;
@@ -123,53 +120,56 @@ margin-bottom: 8px; */
 }
 
 .data_header {
-
-
   margin: 0 11px;
-
 }
 
 .data_footer {
-
   /* margin: 20px 11px; */
   display: flex;
 
   flex-direction: column;
   gap: 10px;
-
-
-
 }
-
+.name_container {
+  font-size: 10px;
+  color: #0b5f93;
+  margin-top: 1px;
+}
+.programs {
+  font-size: 8px;
+  font-weight: 600;
+  width: 100%;
+  line-height: 8px;
+  height: 45px;
+  margin-top: -6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}.programs p {
+  width: 50%;margin: auto;color: #06695e;
+}
 .memNo {
   display: flex;
   align-items: center;
   align-items: center;
   flex-direction: column;
   gap: 3px;
-
 }
 
 .memNo .memNoLabel {
-
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 8px;
-
 }
 
 .mem {
-
   font-weight: 550;
   padding: 4px 28px;
   background-color: #575252;
-  opacity: .5;
-
+  opacity: 0.5;
 }
 
 .ValidDate {
-
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -181,19 +181,19 @@ margin-bottom: 8px; */
   width: 87px;
   padding: 4px 0px;
   background-color: #575252;
-  opacity: .5;
+  opacity: 0.5;
 }
 
 .ValidDate .ValidDateLabel {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 8px;
-
-
 }
-
+.data_header {
+  margin-top: 145px;
+}
 .data_header .heading {
-  margin-top: 7px;
+  margin-top: 10px;
   text-transform: uppercase;
   font-size: 8.5px;
   font-weight: 600;
@@ -205,31 +205,25 @@ margin-bottom: 8px; */
 }
 
 .id_image {
-  border-radius: 50%;
-  height: 80px;
-  width: 80px;
-  border: 1px solid white;
+  border-radius: 10px;
+  height: 90px;
+  width: 72px;
   position: relative;
-
-  z-index: 1;
-
-  margin: 0 auto 2px auto;
+  z-index: -1;
+  margin: -5px auto 2px auto;
   background-size: cover !important;
   background-position: center !important;
 }
 
 .id_no_image {
-  border-radius: 50%;
-  height: 80px;
-  width: 80px;
-  border: 1px solid white;
-  position: relative;
-
-  z-index: 1;
-
-  margin: 42px auto 0 auto;
-  background-size: cover !important;
-  background-position: center !important;
+  background: #fff;
+  display: inline;
+  color: black;
+  font-family: monstserrat, sans-serif;
+  font-size: 7px;
+  padding: 2px;
+  border: black 0.5 px solid;
+  border-radius: 5px;
 }
 
 .id_data {
@@ -242,6 +236,11 @@ margin-bottom: 8px; */
 .section,
 .memNo {
   font-weight: 300;
+}
+.adNo {
+  font-size: 6.8px;
+  width: 50%;
+  margin: -5px auto 0px auto;
 }
 
 .data_footer {
@@ -399,16 +398,13 @@ footer {
   }
 }
 
-
 #qr-code,
 .newQr {
   height: 45px;
   width: 45px;
-
   position: absolute;
-  bottom: 12px;
-  right: 7px;
-
+  bottom: 72px;
+  left: 20px;
 }
 
 .qrInput {
